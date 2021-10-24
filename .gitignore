@@ -1,0 +1,23 @@
+/target
+/classes
+/checkouts
+/out/
+/resources/public/js/
+/node_modules/
+/.lein-*
+/.nrepl-port
+/.prepl-port
+/.shadow-cljs/
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+.hgignore
+.hg/
+
+# Intellij IDEA files
+.idea/
+*.iml
+
+# Emacs files
+*.*~
